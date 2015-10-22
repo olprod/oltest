@@ -1,7 +1,7 @@
 ﻿{
   "locales": [ "zh-cn", "de-de" ],
   "files": [
-	"e2e/*.md"
+  "e2e/*.md"
   ],
   "includeDependencies": true,
   "autoPush": true
