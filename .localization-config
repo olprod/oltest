@@ -1,5 +1,5 @@
 ﻿{
-  "locales": [ "de-de" ],
+  "locales": [ "zh-cn", "de-de" ],
   "files": [
   "e2e/*.md"
   ],
