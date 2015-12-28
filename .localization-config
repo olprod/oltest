@@ -4,5 +4,6 @@
   "e2e/*.md"
   ],
   "includeDependencies": true,
-  "autoPush": true
+  "autoPush": true,
+  "xliffVersion": "1.2"
 }
