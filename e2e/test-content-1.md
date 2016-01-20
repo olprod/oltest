@@ -1,4 +1,4 @@
-﻿﻿Attestation Signing a Kernel Driver for Public Release
+﻿Attestation Signing a Kernel Driver for Public Release
 ========================================================================================================================================
 
 This topic describes how to sign a driver using attestation signing via the Windows Hardware Developer Center Dashboard web portal.
