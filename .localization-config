@@ -1,10 +1,9 @@
-{
+﻿{
   "locales": [ "zh-cn", "de-de" ],
   "files": [
     "e2e/*.md"
   ],
   "includeDependencies": true,
   "autoPush": true,
-  "xliffVersion": "1.2",
-  "useJavascriptMarkdownTransformer":true
+  "xliffVersion": "1.2"
 }
