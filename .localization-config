@@ -1,8 +1,4 @@
 ﻿{
-  "locales": [ "zh-cn", "de-de" ],
-  "files": [
-    "e2e/*.md"
-  ],
   "filters": [
     {
       "files": [ "e2e/*.md" ],
