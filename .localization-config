@@ -2,7 +2,12 @@
   "filters": [
     {
       "files": [ "e2e/*.md" ],
-      "ht": [ "zh-cn", "de-de"]
+      "priorities": [
+        {
+          "priority": "ht",
+          "locales": [ "zh-cn", "de-de"]
+        }
+      ]
     }
   ],
   "includeDependencies": true,
