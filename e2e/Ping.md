@@ -1,1 +1,3 @@
 # Pong!
+
+add performance scope
