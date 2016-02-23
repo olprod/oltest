@@ -2,7 +2,7 @@
 {
   "filters": [
     {
-      "files": [ "e2e/test1/*.md" ],
+      "files": [ "e2e/test2/*.md" ],
       "priorities": [
         {
           "priority": "ht-test",
@@ -11,7 +11,7 @@
       ]
     },
     {
-      "files": [ "e2e/test2/*.md" ],
+      "files": [ "e2e/test1/*.md" ],
       "priorities": [
         {
           "priority": "mt-test",
