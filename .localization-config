@@ -1,25 +1,7 @@
 
 {
-  "filters": [
-    {
-      "files": [ "e2e/test2/*.md" ],
-      "priorities": [
-        {
-          "priority": "ht-test",
-          "locales": [ "zh-cn", "de-de"]
-        }
-      ]
-    },
-    {
-      "files": [ "e2e/test1/*.md" ],
-      "priorities": [
-        {
-          "priority": "mt-test",
-          "locales": [ "zh-cn", "de-de"]
-        }
-      ]
-    }
-  ],
+  "locales": ["de-de", "zh-cn", "ja-jp"], 
+	"files": ["**/**/*.md", "**/*.md"], 
   "includeDependencies": true,
   "autoPush": true,
   "xliffVersion": "2.0"
