@@ -1,7 +1,7 @@
 
 {
   "locales": ["de-de", "zh-cn", "ja-jp"], 
-  "files": ["!/*.md", "**/**/*.md", "**/*.md"], 
+  "files": ["!/*.md", "**/**/*.md", "**/*.md", "*.yaml"], 
   "includeDependencies": true,
   "autoPush": true,
   "xliffVersion": "2.0"
