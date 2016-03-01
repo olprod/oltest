@@ -1,1 +1,1 @@
-![github](./github.png)
+![github](github.png)
