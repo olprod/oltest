@@ -4,6 +4,8 @@
     {
       "docset_name": "oltest",
       "locale": "en-US",
+      "build_source_folder": null,
+      "build_output_subfolder": "e2e",
       "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
