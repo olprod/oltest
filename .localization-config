@@ -1,6 +1,6 @@
 
 {
-  "locales": ["de-de", "zh-cn", "ja-jp", "pl-pl"], 
+  "locales": ["de-de", "zh-cn", "ja-jp"], 
   "files": ["!/*.md", "**/**/*.md", "**/*.md", "**/TOC*.yml"],
   "includeDependencies": true,
   "autoPush": true,
